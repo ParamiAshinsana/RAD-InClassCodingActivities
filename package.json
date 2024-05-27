@@ -90,5 +90,9 @@ export default App;
 "react-dom": "^17.0.0 || ^18.0.0"
 }
 
+"optionalDependencies": {
+"fsevents": "^2.3.2"
+}
+
 
 
